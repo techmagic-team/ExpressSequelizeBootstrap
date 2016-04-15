@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "database": "template",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "tokenSecret": "7C91A11D-D48D-4C52-98FB-E10E876500B7"
+  },
+  "staging": {
+    "username": "root",
+    "password": "techmagic88",
+    "database": "ebdb",
+    "host": "aabz5xq4q6uc9x.cwzmavmopfeh.eu-central-1.rds.amazonaws.com",
+    "port": 3306,
+    "dialect": "mysql",
+    "tokenSecret": "7C91A11D-D48D-4C52-98FB-E10E876500B7"
+  }
+}
